@@ -3,9 +3,9 @@ The src/classification_task.ipynb contains the code to finetune BERT uncased mod
 
 1. Please download the finetuned model from here. Due to large file size constraint it couldn't be uploaded in github. Place the zip file in src/results.
 > https://drive.google.com/drive/folders/1_tZtqs6rJYzx4SFmTclzIEbsqUqCHO8l?usp=drive_link
-1. Install the requirements from the requirements.txt file by creating a virtual/conda environment.
-2. After the installation first run the import statements.
-3. Run the subsequent lines from loding the model and trying out on example emails.
+2. Install the requirements from the requirements.txt file by creating a virtual/conda environment.
+3. After the installation first run the import statements.
+4. Run the subsequent lines from loding the model and trying out on example emails.
 
 
 # Aproach
